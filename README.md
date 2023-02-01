@@ -1,6 +1,8 @@
 # Thelonious Thinks
 Welcome! This is a website that I'm using to generically practice writing and communication. My partner thought it would be a good idea. She's smart.
 
+[Link to Website](https://atheheath.github.io/thelonious-thinks/)
+
 # Development
 * To serve the website locally in dev mode:
     ```
