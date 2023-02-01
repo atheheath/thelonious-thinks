@@ -64,4 +64,6 @@ There's a bunch of documentation out there that I was able to bumble around to m
 * Tree vs. Network ML Models and signal inputs
 
 # Todos
+* Customize it and make it look pretty
+    * Use [Liquid?](https://shopify.github.io/liquid/)
 * I doubt anyone will actually read this blog, but how can we measure? https://clicky.com
