@@ -1,4 +1,5 @@
-Gotta put something here. I'm sure I'll populate this more later on how to actually run this thing.
+# Thelonious Thinks
+Welcome! This is a website that I'm using to generically practice writing and communication. My partner thought it would be a good idea. She's smart.
 
 # Development
 * To serve the website locally in dev mode:
