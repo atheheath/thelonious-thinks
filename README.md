@@ -11,6 +11,16 @@ Welcome! This is a website that I'm using to generically practice writing and co
     rvm gemset use thelonious-thinks
     jekyll serve --source site/
     ```
+# Writing
+* Insert a markdown page wherever you want at the moment. Jekyll will automatically parse it into html for you if you put a yaml header at the top. For example
+    ```
+    ---
+    title: My post
+    author: That Would Be Me
+    ---
+    # Markdown Here
+    ```
+    
 ### Note: You'll need to refresh the page in the browser for changes to take effect
 
 # How I built the website
