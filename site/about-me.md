@@ -6,7 +6,7 @@ author: This guy
 
 ### Insert some goofy image here of me
 
-Yo yo yo! I'm Alex, or Heath, or Paco, or Jandy, or, well, you get the picture. I have a lot of nicknames. Why you ask? Or maybe you don't care and just want me to [get on with it.](/get-on-with-it.html)
+Yo yo yo! I'm Alex, or Heath, or Paco, or Jandy, or, well, you get the picture. I have a lot of nicknames. Why you ask? Or maybe you don't care and just want me to [get on with it.](get-on-with-it.html)
 
 ### Fast Bullet Point Rundown
 * Based in Austin, TX
